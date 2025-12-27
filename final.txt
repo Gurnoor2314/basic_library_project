@@ -1,0 +1,21 @@
+user_id,name,age,city,signup_date,last_login,amount_spent,status
+1001,Amit Kumar,23,Delhi,2024-01-10,2025-01-05,1200,active
+1002,Neha Sharma,,Mumbai,2024-02-11,2025-01-02,850,active
+1003,Rahul Singh,29,Delhi,2024-01-15,NA,560,inactive
+1004,,21,Pune,2024-03-05,2025-01-10,450,active
+1005,Pooja Verma,twenty-two,Bangalore,2024-01-18,2025-01-09,900,active
+1006,Aman Gupta,27,,2024-02-01,2025-01-01,1100,active
+1007,Kiran Patel,31,Ahmedabad,2024-01-20,2025-01-08,,inactive
+1008,Neha Sharma,24,Mumbai,2024-02-11,2025-01-02,850,active
+1009,Rohit Mehta,29,Delhi,2024-01-15,2025-01-05,560,active
+1010,Anjali Singh,25,Lucknow,2024-02-10,invalid_date,700,active
+1011,Amit Kumar,23,Delhi,2024-01-10,2025-01-05,1200,active
+1012,Suresh Yadav,,Jaipur,2024-02-20,2025-01-06,500,active
+1013,Ravi Kumar,34,,2024-03-01,2025-01-12,1300,inactive
+1014,Priya Malhotra,27,Delhi,2024-01-25,,900,active
+1015,Unknown,?,Unknown,unknown,unknown,?,inactive
+1016,Simran Kaur,26,Chandigarh,2024-02-18,2025-01-03,780,active
+1017,Aakash Verma,28,Noida,2024-01-29,2025-01-07,1020,active
+1018,Neha Sharma,24,Mumbai,2024-02-11,2025-01-02,850,active
+1019,Raj Malhotra,35,Delhi,2024-01-02,2025-01-10,1500,active
+1020,Fake User,,Nowhere,invalid,none,,unknown

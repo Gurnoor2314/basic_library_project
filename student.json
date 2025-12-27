@@ -1,0 +1,23 @@
+[
+    {
+        "id": 101,
+        "name": "Aman Sharma",
+        "age": 20,
+        "course": "B.Tech",
+        "marks": 82
+    },
+    {
+        "id": 102,
+        "name": "Neha Verma",
+        "age": 21,
+        "course": "B.Tech",
+        "marks": 90
+    },
+    {
+        "id": 103,
+        "name": "Rohit Singh",
+        "age": 19,
+        "course": "BCA",
+        "marks": 76
+    }
+]
